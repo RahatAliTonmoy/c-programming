@@ -1,4 +1,4 @@
-Even-6422350
-Odd-2
-Possitive-12844702
-Negative-0
+2 2 1 
+4 2 4 
+3 9 2 
+0 
